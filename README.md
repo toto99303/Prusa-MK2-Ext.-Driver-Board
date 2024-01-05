@@ -8,7 +8,7 @@ https://vmod.wordpress.com/prusa-mk2s-ext-driver-board-v2-3/
 
 BOM:
 
-1 x WIRE TO BOARD header 3 POS 2.54MM(.100) (https://www.digikey.be/en/products/detail/cvilux-usa/CI3103P1V00-NH/13177511)
+1 x wire-to-board header 3 POS 2.54MM(.100) (https://www.digikey.be/en/products/detail/cvilux-usa/CI3103P1V00-NH/13177511)
 
 2 x 100uF 35V Capacitors (https://www.digikey.be/en/products/detail/rubycon/35ZLH100MEFC6-3X11/3134256)
 
